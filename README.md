@@ -29,7 +29,7 @@ The goal was to provide insights into workforce demographics, attrition rates, a
 - Data Cleaning with **Power Query**  
 - DAX for calculated measures  
 - Interactive visualizations & filtering  
----
+  
 
 🚀 **Future Scope**  
 - Predictive attrition analysis using ML models  
